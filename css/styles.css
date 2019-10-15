@@ -1,0 +1,125 @@
+.top-container {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 50px;
+}
+
+.contact-me {
+  background-color: #fccb8f;
+  padding-top: 30px;
+}
+
+.middle-container {
+  background-color: #c5f8c8;
+  position: relative;
+}
+
+.pan {
+  height: 150px;
+  width: 150px;
+}
+.pan2 {
+  height: 90px;
+  width: 90px;
+  padding-right: 30px;
+}
+
+.logos {
+  height: 40px;
+  width: 40px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  /* center should be given in parent element. it centers everything inside it */
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace
+}
+
+#mount {
+  height: 410px;
+  width: 750px;
+}
+
+span {
+  text-decoration: underline;
+}
+
+/*
+...h1 {
+  margin: 0 auto 0 auto;
+ width: 10%;
+}
+
+*/
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  color: #4d4545;
+  margin: 0;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.btn:hover {
+  background-color: #dcedc2;
+}
+
+h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 40px;
+  margin-bottom: 0;
+}
+
+#prof {
+  border-radius: 50%;
+  padding: 50px 50px 10px 50px;
+  height: 180px;
+  width: 170px;
+}
+
+h3 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bottom-container {
+  background-color: #f9989f;
+  padding-top: 30px;
+}
+
+.bottom-cloud {
+  bottom: 400px;
+  left: 240px;
+  position: absolute;
+  height: 65px;
+}
+
+.top-cloud {
+  left: 320px;
+  position: relative;
+  height: 65px;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+  background-color: #c5f8c8;
+}
+
+a:hover {
+  color: red;
+}
+
+.middle2-container {
+  background-color: #fdffab;
+  position: relative;
+  padding-top: 10px;
+}
